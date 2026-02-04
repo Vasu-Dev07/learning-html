@@ -1,0 +1,41 @@
+
+/* Tag Elment selector */
+/* h1{
+    background-color: pink;
+}
+
+ul{
+    background-color: aquamarine;
+}
+
+h2{
+    background-color: blue;
+} */
+
+/*id base selection # based selection */
+
+#first{
+    background-color: blue;
+}
+
+#second{
+    background-color: pink;
+} 
+
+
+/* class based selection */
+
+.third{
+    background-color: green;
+}
+
+.fourth{
+    background-color:blueviolet
+} 
+
+
+
+
+
+
+
