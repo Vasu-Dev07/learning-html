@@ -1,0 +1,13 @@
+h1{
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+    border: 10px solid orange;
+    padding: 20px;
+    box-sizing: content-box;
+    /* padding: 40px;
+    margin: 20px; */
+    /* display: inline; */
+   /* display: inline-block; */
+    
+}
